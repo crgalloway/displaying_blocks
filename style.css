@@ -1,0 +1,42 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+#wrapper{
+	width: 710px;
+	background-color: #d5d2ae;
+}
+#header{
+	padding: 20px;
+	text-align: center;
+}
+#header h1{
+	display: inline-block;
+}
+#header img{
+	height: 50px;
+	width: 100px;
+}
+#body{
+	padding: 10px;
+	text-align: center;
+}
+.column{
+	width: 120px;
+
+	display: inline-block;
+	text-align: center;
+}
+.column img{
+	height: 100px;
+	width: 100px;
+	margin: 5px;
+	padding: 5px;
+	border: 4px solid black;
+}
+.blue{
+	background-color: #82b4ee;
+}
+.pink{
+	background-color: #f36870;
+}
